@@ -1,0 +1,54 @@
+
+body {
+    background-image: url('/FitnessPic2.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: cover;
+    justify-content: center;
+
+}
+
+.button{
+    border-color: #2196F3;
+    color: dodgerblue;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 5px;
+    width: 100px;
+    height: 75px;
+      }
+      
+    .button:hover {
+        background: #2196F3;
+        color: white;
+}
+.LargeButton{
+    border-color: #2196F3;
+    color: dodgerblue;
+    width: 150px;
+    height: 50px;
+      }
+      
+    .LargeButton:hover {
+        background: #2196F3;
+        color: white;
+}
+
+#Title{
+    text-align: center;
+    color: rgb(249, 250, 255);
+    text-shadow: 4px 4px 4px #000000;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 70px;
+}
+
+#app {
+    text-align: center;
+    color: rgb(249, 250, 255);
+    text-shadow: 4px 4px 4px #000000;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 20px;
+}
+#Greeting{
+    font-size: 35px;
+}
